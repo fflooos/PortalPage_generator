@@ -69,7 +69,7 @@ Defining options.ini parameter :
     
 # OPTIONS
 
-    usage: vp_generator.py [-t] [-d] [-v] [-m]
+    usage: vp_generator.py [-i] [-o] [-v] [-m] [-h]
         Parse and generate Report Template xml file based on input data file:
         Options:
         -h, --help            show this help message and exit
